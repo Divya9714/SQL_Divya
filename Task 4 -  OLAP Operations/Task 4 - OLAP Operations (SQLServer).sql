@@ -16,8 +16,7 @@ CREATE TABLE sales_sample(
 
 --2. Data Creation--
 
---Insert 10 sample records into the "sales_sample" table, 
---representing sales data.-- 
+--Insert 10 sample records into the "sales_sample" table, representing sales data.-- 
 
 INSERT INTO sales_sample(Product_Id, Region, [Date], Sales_Amount)
 
