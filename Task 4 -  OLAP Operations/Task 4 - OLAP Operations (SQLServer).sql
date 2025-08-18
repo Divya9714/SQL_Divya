@@ -138,7 +138,7 @@ GO
 
 --or --
 
-PRINT 'Slice: Sales from Jan to March 2025';
+PRINT 'Slice: Sales from Feb to March 2025';
 
 SELECT * FROM sales_sample
 
