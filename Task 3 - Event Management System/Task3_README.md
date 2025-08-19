@@ -20,4 +20,5 @@ This project models an event registration and attendee tracking system. It demon
 ## Key Learnings
 - Foreign keys and relational design
 - Complex JOIN queries
-- Event management simulation
+- CTE and Subquery
+
